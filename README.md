@@ -22,8 +22,6 @@ This utility is perfect for developers, system administrators, and anyone who wo
 *   **🔎 Case-Insensitive:** It doesn't matter if you type `Document.txt` or `document`—DL will find it.
 *   **🎨 Colored Output:** Results are highlighted for better readability: green for success, red for errors.
 *   **🔗 Clickable Paths:** Outputs full file paths that become clickable in modern terminals (like Windows Terminal and VS Code).
-*   **⚙️ Simple Installation:** A built-in `--install` command automatically adds the utility to your PATH.
-*   **🗑️ Easy Uninstallation:** The `--uninstall` command helps you remove the program from your system.
 *   **🚫 Safe & Secure:** The program safely skips directories it doesn't have permission to access, avoiding permission errors.
 
 ---
