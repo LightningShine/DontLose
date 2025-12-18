@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="DontLose/DontLose.vcxproj" />
+  <Project Path="DontLose/DontLose.vcxproj" Id="29af70c7-1435-46bf-b2c6-59ad91778630" />
 </Solution>

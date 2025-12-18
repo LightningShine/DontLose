@@ -89,6 +89,7 @@ int main(int argc, char* argv[]) {
         std::cerr << "An unexpected error occurred: " << e.what() << std::endl;
         set_console_color(CONSOLE_COLOR_WHITE);
     }
-
+    char a;
+    std::cin >> a;
     return 0; // Success
 }
