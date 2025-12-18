@@ -12,7 +12,7 @@ This utility is perfect for developers, system administrators, and anyone who wo
 
 ### 🎬 Demo
 
-*(Your video demonstrating how easy and fast the utility works will go here)*
+https://github.com/user-attachments/assets/9cb08c8e-414a-42e2-bb24-097084aa2cce
 
 ---
 
