@@ -50,6 +50,12 @@ If you prefer to have full control, follow these steps:
 
 You are now ready to go!
 
+
+
+
+https://github.com/user-attachments/assets/3a1a46bc-f5e2-4e45-ae49-6538f3524ba9
+
+
 ---
 
 ### 💻 How to Use
